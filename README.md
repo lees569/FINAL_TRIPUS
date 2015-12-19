@@ -3,4 +3,4 @@
 
 
 ## Screenshots
-![ScreenShot1](https://github.com/lees569/SlotWatch/blob/master/main.png) 
+![ScreenShot1](https://github.com/lees569/FINAL_TRIPUS/blob/master/newmain.png) 
